@@ -4,36 +4,6 @@
 
 
 {
-"title": "_ChemmineR_: Cheminformatics Toolkit for R",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/08_ChemmineR/ChemmineR.Rmd",
-"summary": ""
-},
-
-
-
-{
-"title": "_ChemmineR_: Cheminformatics Toolkit for R",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/08_ChemmineR/ChemmineR.knit.html",
-"summary": ""
-},
-
-
-
-{
-"title": "_ChemmineR_: Cheminformatics Toolkit for R",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/08_ChemmineR/ChemmineR.utf8.html",
-"summary": ""
-},
-
-
-
-{
 "title": "Getting started with the Documentation Theme for Jekyll",
 "tags": "getting_started",
 "keywords": "sample homepage",
@@ -42,106 +12,6 @@
 },
 
 
-
-{
-"title": "Introduction to R",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/07_Rbasics/Rbasics.Rmd",
-"summary": ""
-},
-
-
-
-{
-"title": "Introduction to R",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/07_Rbasics/Rbasics.knit.html",
-"summary": ""
-},
-
-
-
-{
-"title": "Introduction to R",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/07_Rbasics/Rbasics.utf8.html",
-"summary": ""
-},
-
-
-
-{
-"title": "R Graphics",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/04_Rgraphics/Rgraphics.Rmd",
-"summary": ""
-},
-
-
-
-{
-"title": "R Graphics",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/04_Rgraphics/Rgraphics.knit.html",
-"summary": ""
-},
-
-
-
-{
-"title": "R Graphics",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/04_Rgraphics/Rgraphics.utf8.html",
-"summary": ""
-},
-
-
-
-{
-"title": "bioassayR - Introduction and Examples",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/09_bioassayR/bioassayR.Rmd",
-"summary": ""
-},
-
-
-
-{
-"title": "bioassayR - Introduction and Examples",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/09_bioassayR/bioassayR.knit.html",
-"summary": ""
-},
-
-
-
-{
-"title": "bioassayR - Introduction and Examples",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/09_bioassayR/bioassayR.utf8.html",
-"summary": ""
-},
-
-
-
-
-
-{
-"title": "Introduction",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/01_Overview/home.html",
-"summary": ""
-},
 
 
 
@@ -649,28 +519,8 @@
 "title": "Class Teaching",
 "tags": "",
 "keywords": "",
-"url": "/vignettes/01_Overview/mydoc_classes.html",
-"summary": ""
-},
-
-
-
-{
-"title": "Class Teaching",
-"tags": "",
-"keywords": "",
 "url": "/classes",
 "summary": ""
-},
-
-
-
-{
-"title": "Administration of site",
-"tags": "",
-"keywords": "navigation tabs, hide sections, tabbers, interface tabs",
-"url": "/vignettes/12_Internal_notes/mydoc_internal_notes.html",
-"summary": "Internal notes for maintaining this site."
 },
 
 
@@ -687,47 +537,7 @@
 
 
 
-{
-"title": "My First R Markdown Document",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/07_Rbasics/sample.Rmd",
-"summary": ""
-},
 
-
-
-
-
-
-
-{
-"title": "_systemPipeR_: NGS workflow and report generation environment",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/07_systemPipeR/systemPipeR.Rmd",
-"summary": ""
-},
-
-
-
-{
-"title": "_systemPipeR_: NGS workflow and report generation environment",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/07_systemPipeR/systemPipeR.knit.html",
-"summary": ""
-},
-
-
-
-{
-"title": "_systemPipeR_: NGS workflow and report generation environment",
-"tags": "",
-"keywords": "",
-"url": "/vignettes/07_systemPipeR/systemPipeR.utf8.html",
-"summary": ""
-},
 
 
 
